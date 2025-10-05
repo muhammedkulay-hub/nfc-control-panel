@@ -1,0 +1,11 @@
+{
+  "name": "NFC Control Panel",
+  "short_name": "NFC Panel", 
+  "description": "Tüm NFC kartlarınızı tek telefonda yönetin!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2563eb",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": []
+}
